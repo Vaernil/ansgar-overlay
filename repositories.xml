@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE repositories SYSTEM "https://www.gentoo.org/dtd/repositories.dtd">
+<repositories xmlns="" version="1.0">
+  <repo priority="100" quality="experimental" status="unofficial">
+    <name><![CDATA[ansgar-overlay]]></name>
+    <description lang="en"><![CDATA[Ansgar Overlay]]></description>
+	<homepage>https://github.com/Vaernil/ansgar-overlay</homepage>
+    <owner type="person">
+      <email>vaernil@gmail.com</email>
+      <name><![CDATA[Ansgar Edgarson]]></name>
+    </owner>
+    <source type="git">git@github.com:Vaernil/ansgar-overlay.git</source>
+  </repo>
+</repositories>
