@@ -1,0 +1,3 @@
+[submodule "x11-terms/xst"]
+	path = x11-terms/xst
+	url = https://github.com/gnotclub/xst.git
